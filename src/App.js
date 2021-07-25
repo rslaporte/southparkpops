@@ -8,13 +8,19 @@ const useStyles = makeStyles({
 
   header: {
     alignContent: 'center',
+    display: 'inline',
     textAlign: 'center',
     margin: '20px 50px 0px 0px'
   },
 
   body: {
     alignContent: 'center',
-    margin: '20px 0px 0px 250px'
+    margin: 'auto',
+    display: 'table',
+    alignItems: 'center',
+    justifyContent: 'center',
+    height: '80vh',
+    alignSelf: 'center'
   },
 
   title: {

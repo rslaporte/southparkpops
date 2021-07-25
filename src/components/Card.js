@@ -9,7 +9,7 @@ import blankImage from '../img/blank.png'
 
 const useStyles = makeStyles({
   root: {
-    maxWidth: 200,
+    maxWidth: 155,
     border: 'black',
     borderStyle: 'solid',
   },

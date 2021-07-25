@@ -12,7 +12,7 @@ import TableRow from '@material-ui/core/TableRow';
 const useStyles = makeStyles({
   container: {
     alignContent: 'center',
-    width: '960px'
+    width: '980px'
   },
 
   table: {
